@@ -1,0 +1,18 @@
+/* Căn giữa và co vừa chiều rộng nội dung */
+.markdown-preview-view img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;   /* Không vượt quá khung */
+  height: auto;      /* Giữ tỉ lệ */
+}
+
+/* Khi in hoặc xuất PDF */
+@media print {
+  img {
+    page-break-inside: avoid; /* Không cắt ảnh giữa trang */
+    break-inside: avoid;
+    max-width: 100%;
+    height: auto;
+  }
+}

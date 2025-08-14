@@ -1,0 +1,7 @@
+{
+  "font_folder": ".obsidian/fonts/",
+  "font": "NewYork.ttf",
+  "force_mode": true,
+  "custom_css_mode": true,
+  "custom_css": ":root * {\n\t\t--font-default: NewYork;\n\t\t--default-font: NewYork;\n\t\t--font-family-editor: NewYork;\n\t\t--font-monospace-default: NewYork,\n\t\t--font-interface-override: NewYork,\n\t\t--font-text-override: NewYork,\n\t\t--font-monospace-override: NewYork,\t\n\t}\n"
+}

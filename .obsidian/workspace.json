@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hackthebox/Cap.md",
+                "file": "Hackthebox/Dog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cap"
+              "title": "Dog"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "bd2e06a17a28231f",
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,14 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "819590c43c979b0d",
+  "active": "1b98ece5afa1c6d2",
   "lastOpenFiles": [
+    "Hackthebox/Cap.md",
+    "Hackthebox/Dog.md",
+    "Hackthebox/Lab 1 - Example/LAB 1.md",
+    "Hackthebox/Lab 1 - Example/Network 1/Buff.md",
     "Hackthebox/Lab 1 - Example/Network 3/Tabby.md",
     "Hackthebox/attachments/Dog-1.png",
-    "Hackthebox/Dog.md",
     "Bug-Bounty Hunting & Web Security Testing/Injection Vulnerability/Injection v.md",
     "Cheatsheets/Upgrade your shell.md",
-    "Cheatsheets/Cheatsheet.md",
-    "Hackthebox/Cap.md"
+    "Cheatsheets/Cheatsheet.md"
   ]
 }

@@ -8,7 +8,6 @@
   "obsidian-advanced-slides",
   "code-styler",
   "obsidian-book-search-plugin",
-  "better-export-pdf",
   "dataview",
   "obsidian-emoji-toolbar",
   "file-tree-alternative",
@@ -17,5 +16,10 @@
   "obsidian-list-callouts",
   "obsidian-reading-time",
   "readwise-official",
-  "settings-search"
+  "settings-search",
+  "obsidian-style-settings",
+  "custom-font-loader",
+  "obsidian-banners",
+  "better-export-pdf",
+  "obsidian-enhancing-export"
 ]

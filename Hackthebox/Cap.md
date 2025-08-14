@@ -86,6 +86,7 @@ sudo vim /etc/proxychains4.conf
 
 ## Software Deployment Tools - T1072
 Cannot implement ftp
+
 ![[Cap-9.png]]
 
 # Access Web 

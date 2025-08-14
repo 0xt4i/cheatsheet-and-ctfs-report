@@ -1,5 +1,8 @@
 {
-  "theme": "obsidian",
-  "cssTheme": "Rose Red",
-  "textFontFamily": "Times New Roman"
+  "theme": "moonstone",
+  "cssTheme": "AnuPpuccin",
+  "textFontFamily": "Times New Roman",
+  "enabledCssSnippets": [
+    "style"
+  ]
 }
