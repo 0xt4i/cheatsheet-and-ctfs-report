@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hackthebox/Dog.md",
+                "file": "Cloud/Cloud Computing (AWS, Azure, GCP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dog"
+              "title": "Cloud Computing (AWS, Azure, GCP)"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackthebox/Dog.md",
+                "file": "Cloud/Cloud Computing (AWS, Azure, GCP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dog"
+              "title": "Outgoing links from Cloud Computing (AWS, Azure, GCP)"
             }
           },
           {
@@ -195,14 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aeff026b4e83904c",
+  "active": "1b98ece5afa1c6d2",
   "lastOpenFiles": [
+    "Hackthebox/Dog.md",
+    "Cloud/Cloud Computing (AWS, Azure, GCP).md",
     "Untitled 3",
     "Untitled 2",
     "Untitled 1",
-    "Untitled",
+    "Cloud",
     "Hackthebox/attachments/Dog-16.png",
-    "Hackthebox/Dog.md",
     "Hackthebox/attachments/Dog-1.png",
     "Hackthebox/Lab 1 - Example/Network 1/attachments/1.png",
     "Hackthebox/Lab 1 - Example/Network 3/attachments/2.png",
