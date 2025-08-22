@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Cloud Computing (AWS, Azure, GCP).md",
+                "file": "Cloud/Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Computing (AWS, Azure, GCP)"
+              "title": "Theory"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Cloud Computing (AWS, Azure, GCP).md",
+                "file": "Cloud/Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cloud Computing (AWS, Azure, GCP)"
+              "title": "Outgoing links from Theory"
             }
           },
           {
@@ -198,7 +198,7 @@
   "active": "1b98ece5afa1c6d2",
   "lastOpenFiles": [
     "Hackthebox/Dog.md",
-    "Cloud/Cloud Computing (AWS, Azure, GCP).md",
+    "Cloud/Theory.md",
     "Untitled 3",
     "Untitled 2",
     "Untitled 1",
