@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 243
   },
   "right": {
     "id": "bd2e06a17a28231f",
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackthebox/Cap.md",
+                "file": "Hackthebox/Dog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cap"
+              "title": "Outgoing links from Dog"
             }
           },
           {
@@ -172,14 +172,15 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 389
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,14 +195,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b98ece5afa1c6d2",
+  "active": "aeff026b4e83904c",
   "lastOpenFiles": [
-    "Hackthebox/Cap.md",
+    "Hackthebox/attachments/Dog-16.png",
     "Hackthebox/Dog.md",
+    "Hackthebox/attachments/Dog-1.png",
+    "Hackthebox/Lab 1 - Example/Network 1/attachments/1.png",
+    "Hackthebox/Lab 1 - Example/Network 3/attachments/2.png",
+    "Hackthebox/Lab 1 - Example/Network 1/attachments/2.png",
+    "Hackthebox/Lab 1 - Example/Network 3/attachments/1.png",
+    "Hackthebox/Lab 1 - Example/Network 1/attachments/1 (2).png",
+    "Hackthebox/attachments/Dog.png",
+    "Hackthebox/Cap.md",
     "Hackthebox/Lab 1 - Example/LAB 1.md",
     "Hackthebox/Lab 1 - Example/Network 1/Buff.md",
     "Hackthebox/Lab 1 - Example/Network 3/Tabby.md",
-    "Hackthebox/attachments/Dog-1.png",
     "Bug-Bounty Hunting & Web Security Testing/Injection Vulnerability/Injection v.md",
     "Cheatsheets/Upgrade your shell.md",
     "Cheatsheets/Cheatsheet.md"
