@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Theory.md",
+                "file": "Cloud/AWS Cloud Technical Essentials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theory"
+              "title": "AWS Cloud Technical Essentials"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Theory.md",
+                "file": "Cloud/AWS Cloud Technical Essentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Theory"
+              "title": "Outgoing links from AWS Cloud Technical Essentials"
             }
           },
           {
@@ -197,8 +197,9 @@
   },
   "active": "1b98ece5afa1c6d2",
   "lastOpenFiles": [
-    "Hackthebox/Dog.md",
     "Cloud/Theory.md",
+    "Cloud/AWS Cloud Technical Essentials.md",
+    "Hackthebox/Dog.md",
     "Untitled 3",
     "Untitled 2",
     "Untitled 1",
