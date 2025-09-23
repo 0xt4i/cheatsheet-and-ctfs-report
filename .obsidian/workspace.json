@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "AWS Cloud Technical Essentials"
             }
+          },
+          {
+            "id": "17dd651b43171b3c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b98ece5afa1c6d2",
+  "active": "17dd651b43171b3c",
   "lastOpenFiles": [
     "Cloud/Theory.md",
     "Cloud/AWS Cloud Technical Essentials.md",
