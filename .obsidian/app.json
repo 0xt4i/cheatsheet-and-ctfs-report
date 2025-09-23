@@ -6,5 +6,7 @@
     "landscape": false,
     "margin": "1",
     "downscalePercent": 100
-  }
+  },
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Micoservice-and-Kubernetes/attachment"
 }
