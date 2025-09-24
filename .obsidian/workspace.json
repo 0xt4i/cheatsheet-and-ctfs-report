@@ -80,8 +80,8 @@
             "state": {
               "type": "file-tree-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "file-tree-view"
+              "icon": "sheets-in-box",
+              "title": "File Tree"
             }
           },
           {
@@ -94,7 +94,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -208,6 +209,7 @@
   },
   "active": "17dd651b43171b3c",
   "lastOpenFiles": [
+    "Micoservice-and-Kubernetes/attachment/Cluster.png",
     "Hackthebox/Cap.md",
     "Micoservice-and-Kubernetes/Tổng quan kiến trúc K8s.md",
     "Micoservice-and-Kubernetes/attachment/Tổng quan kiến trúc K8s.png",

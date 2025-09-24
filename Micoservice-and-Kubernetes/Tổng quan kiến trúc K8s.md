@@ -1,3 +1,7 @@
+
+# Cluster
+![](Micoservice-and-Kubernetes/attachment/Cluster.png)
+
 # Pods
 
 ![[Micoservice-and-Kubernetes/attachment/Pods.png]]
