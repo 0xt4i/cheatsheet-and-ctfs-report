@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Micoservice-and-Kubernetes/Tổng quan kiến trúc K8s.md",
+                "file": "Hackthebox/Cap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tổng quan kiến trúc K8s"
+              "title": "Cap"
             }
           }
         ]
@@ -76,6 +76,16 @@
           },
           {
             "id": "b93fb32f0393feb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "file-tree-view"
+            }
+          },
+          {
+            "id": "a8177aa293a31d85",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -167,8 +177,8 @@
             "state": {
               "type": "quiet-outline",
               "state": {},
-              "icon": "lines-of-text",
-              "title": "Quiet Outline"
+              "icon": "lucide-ghost",
+              "title": "quiet-outline"
             }
           }
         ],
@@ -198,10 +208,10 @@
   },
   "active": "17dd651b43171b3c",
   "lastOpenFiles": [
+    "Micoservice-and-Kubernetes/Tổng quan kiến trúc K8s.md",
     "Micoservice-and-Kubernetes/attachment/Tổng quan kiến trúc K8s.png",
     "Micoservice-and-Kubernetes/attachment/Pods.png",
     "Micoservice-and-Kubernetes/attachment/Pods.png",
-    "Micoservice-and-Kubernetes/Tổng quan kiến trúc K8s.md",
     "Micoservice-and-Kubernetes/attachment/Pods-1.png",
     "Micoservice-and-Kubernetes/attachment/Tổng quan kiến trúc K8s-1.png",
     "Micoservice-and-Kubernetes/attachment/Tổng quan kiến trúc K8s.png",
@@ -210,7 +220,6 @@
     "Micoservice-and-Kubernetes/attachment/Nodes.png",
     "Cloud/AWS Cloud Technical Essentials.md",
     "Tổng quan kiến trúc K8s.png",
-    "Nodes.png",
     "Micoservice-and-Kubernetes/attachment",
     "Paste test.md",
     "Untitled 1",
