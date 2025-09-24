@@ -8,5 +8,6 @@
     "downscalePercent": 100
   },
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Micoservice-and-Kubernetes/attachment"
+  "attachmentFolderPath": "Micoservice-and-Kubernetes/attachment",
+  "useMarkdownLinks": true
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hackthebox/Cap.md",
+                "file": "Micoservice-and-Kubernetes/Tổng quan kiến trúc K8s.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cap"
+              "title": "Tổng quan kiến trúc K8s"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "active": "17dd651b43171b3c",
   "lastOpenFiles": [
+    "Hackthebox/Cap.md",
     "Micoservice-and-Kubernetes/Tổng quan kiến trúc K8s.md",
     "Micoservice-and-Kubernetes/attachment/Tổng quan kiến trúc K8s.png",
     "Micoservice-and-Kubernetes/attachment/Pods.png",
@@ -230,7 +231,6 @@
     "Untitled 3",
     "Untitled 2",
     "Cloud",
-    "Hackthebox/Cap.md",
     "Hackthebox/Lab 1 - Example/LAB 1.md",
     "Hackthebox/Lab 1 - Example/Network 1/Buff.md",
     "Hackthebox/Lab 1 - Example/Network 3/Tabby.md",
