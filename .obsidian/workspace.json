@@ -94,7 +94,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
