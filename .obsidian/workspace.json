@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Micoservice-and-Kubernetes/Hitachi.md",
+                "file": "Hitachi/Hitachi.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,8 +94,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,8 +208,11 @@
   },
   "active": "17dd651b43171b3c",
   "lastOpenFiles": [
-    "Micoservice-and-Kubernetes/Tổng quan kiến trúc K8s.md",
+    "Micoservice-and-Kubernetes/attachment/Hitachi.png",
     "Micoservice-and-Kubernetes/Hitachi.md",
+    "Hitachi/Hitachi.md",
+    "Hitachi",
+    "Micoservice-and-Kubernetes/Tổng quan kiến trúc K8s.md",
     "Micoservice-and-Kubernetes/attachment/Cluster.png",
     "Hackthebox/Cap.md",
     "Micoservice-and-Kubernetes/attachment/Tổng quan kiến trúc K8s.png",
